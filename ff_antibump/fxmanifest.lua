@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------
--- FiveForge Anti Bump
+-- FiveForge Studios Anti Bump
 -- Configured By akaLucifer. & pyrs
 -- Releasing or Claiming this as your own is against, this resources License
 ------------------------------------------------------------------------------------
@@ -9,7 +9,7 @@ game "gta5"
 lua54 "yes"
 
 files {
-	"data/handlings/.meta",
+	"data/handlings/*.meta",
 }
 
 -- Vehicles
